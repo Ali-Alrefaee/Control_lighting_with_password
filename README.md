@@ -6,4 +6,4 @@ Control room lighting with a password
  2. 16x2 LCD
  3. keypad
  4. Relay 
- 5. Breadboard and jump wires
+ 5. Breadboard and jumper wires
